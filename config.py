@@ -2,7 +2,8 @@
 # Configuration and constants
 
 # Groq API Configuration
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
+#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
 SELECTED_MODEL = "llama-3.3-70b-versatile"
 
 # Available Groq models
